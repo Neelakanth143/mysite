@@ -25,7 +25,7 @@ SECRET_KEY = 'je-#plk_8r$ug!0n=2simluz1cv-vxe9t^ccv+t&yy69$yj5n!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['dilipsapkota.pythonanywhere.com']
+ALLOWED_HOSTS = []
 
 
 # Application definition
